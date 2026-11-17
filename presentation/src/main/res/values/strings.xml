@@ -1,0 +1,30 @@
+<resources>
+    <string name="search_title">Rick and Morty</string>
+    <string name="search_hint">Buscar personaje…</string>
+    <string name="search_clear">Borrar búsqueda</string>
+    <string name="search_idle_title">Busca un personaje</string>
+    <string name="search_idle_message">Escribe un nombre, por ejemplo «Rick» o «Morty»</string>
+    <string name="search_empty_title">Sin resultados</string>
+    <string name="search_empty_message">No se encontraron personajes para «%1$s»</string>
+    <string name="search_load_more_error">No se pudieron cargar más resultados</string>
+
+    <string name="detail_back">Volver</string>
+    <string name="detail_not_found_title">Personaje no encontrado</string>
+    <string name="detail_not_found_message">Este personaje no existe o ya no está disponible</string>
+    <string name="detail_species">Especie</string>
+    <string name="detail_type">Tipo</string>
+    <string name="detail_gender">Género</string>
+    <string name="detail_origin">Origen</string>
+    <string name="detail_location">Última ubicación conocida</string>
+    <string name="detail_episodes">Número de episodios</string>
+
+    <string name="status_alive">Vivo</string>
+    <string name="status_dead">Muerto</string>
+    <string name="status_unknown">Desconocido</string>
+
+    <string name="action_retry">Reintentar</string>
+    <string name="error_network">Sin conexión. Comprueba tu red e inténtalo de nuevo.</string>
+    <string name="error_not_found">No se ha encontrado.</string>
+    <string name="error_server">El servidor no responde correctamente. Inténtalo más tarde.</string>
+    <string name="error_unknown">Ha ocurrido un error inesperado.</string>
+</resources>

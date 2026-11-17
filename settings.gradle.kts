@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PruebaTecnica"
 include(":domain")
+include(":data")

@@ -1,0 +1,16 @@
+# Gradle / Kotlin
+.gradle/
+.kotlin/
+build/
+local.properties
+
+# Android Studio: keep only the shared run configurations
+*.iml
+/.idea/*
+!/.idea/runConfigurations/
+
+# Misc
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx

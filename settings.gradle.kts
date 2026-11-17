@@ -23,6 +23,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "PruebaTecnica"
+include(":app")
+include(":presentation")
 include(":domain")
 include(":data")
-include(":presentation")
